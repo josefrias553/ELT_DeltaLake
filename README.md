@@ -1,6 +1,7 @@
 # 🔄 GitHub ELT Pipeline con Delta Lake
 
 Este proyecto implementa un pipeline **ELT** en Python, diseñado para extraer datos desde la API de GitHub, cargarlos en formato Delta Lake y luego transformarlos eficientemente mediante pandas.
+Actualmente, el código cumple su objetivo funcional, aunque soy consciente de que requiere mejoras, como documentar detalladamente lo que hace cada función en sus respectivos módulos, con el fin de facilitar su mantenimiento, escalabilidad y comprensión a futuro.
 
 ---
 
